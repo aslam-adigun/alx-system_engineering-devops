@@ -1,8 +1,8 @@
 # Secured and Monitored Web Infrastructure
 
-![Image of a secured and monitored infrastructure](2-secured_and_monitored_web_infrastructure.jpg)
+![Image of a secured and monitored infrastructure](2-secured_and_monitored_web_infrastructure.png)
 
-[Visit Board](https://miro.com/app/board/uXjVOfNFwbY=/)
+[Visit Board](https://drive.google.com/file/d/1tezHIlOQohGX_1U69c19YO9DO6GQzEbR/view?usp=sharing)
 
 ## Description
 
