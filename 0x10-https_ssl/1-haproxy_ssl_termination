@@ -35,10 +35,10 @@ defaults
 
 frontend myfrontend
 	bind *:80
-	bind *:443 ssl crt /etc/haproxy/certs/www.computewell.tech.pem
+	bind *:443 ssl crt /etc/haproxy/certs/www.daslam.tech.pem
 	default_backend myservers
 
 backend myservers
 	balance roundrobin
-	server web-01 18.234.107.66:80check
-	server web-02 54.208.211.216:80 check	
+	server web-01 54.164.152.102:80 check
+	server web-02 100.25.197.15:80 check	
